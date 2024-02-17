@@ -1,7 +1,7 @@
 #include <climits>
 #include <vector>
 
-#include "../../Ourlib/qjsLib/printContentOfvector.h"
+#include "../../Ourlib/printContentOfvector.h"
 using namespace std;
 
 class Solution{

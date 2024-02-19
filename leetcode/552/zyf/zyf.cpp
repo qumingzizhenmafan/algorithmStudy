@@ -1,6 +1,7 @@
 #include<vector>
 #include<algorithm>
 #include"../../../Ourlib/printContentOfvector.h"
+#include"../../../Ourlib/print.h"
 
 class Solution {
 public:
@@ -35,8 +36,3 @@ public:
     }
 };
 
-int main(){
-    std::vector<int> nums = {1,2,3,4,5,6,7,8,9,10,100};
-    PrintContentOfvector<std::vector<int>, int> p;
-    p.print(nums);
-}

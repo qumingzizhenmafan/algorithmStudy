@@ -39,3 +39,7 @@ public:
         return target;
     }
 };
+
+int main(){
+    return 0;
+}

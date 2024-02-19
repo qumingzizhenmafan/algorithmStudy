@@ -1,5 +1,7 @@
 #include<vector>
 #include<algorithm>
+#include"../../../Ourlib/printContentOfvector.h"
+#include"../../../Ourlib/print.h"
 
 class Solution {
 public:
@@ -33,3 +35,4 @@ public:
         return target;
     }
 };
+

@@ -13,6 +13,9 @@
 #include<queue>
 #include<stack>
 #include<sstream>
+#include<utility>
+#include<tuple>
+#include<functional>
 
 using std::cout;
 using std::cin;
@@ -27,5 +30,10 @@ using std::unordered_set;
 using std::queue;
 using std::stack;
 using std::priority_queue;
+using std::to_string;
+using std::make_pair;
+using std::make_tuple;
+using std::max;
+using std::min;
 
 #endif // ZYFZIYONGTOU_H

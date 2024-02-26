@@ -1,4 +1,4 @@
-#include "../../zyfziyongtou.h"
+#include "../../stdc.h"
 
 class Solution {
     int isPrefixAndSuffix(string a, string b){

@@ -1,4 +1,4 @@
-#include "../../zyfziyongtou.h"
+#include "../../stdc.h"
 
 class Solution {
 public:

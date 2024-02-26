@@ -16,6 +16,7 @@
 #include<utility>
 #include<tuple>
 #include<functional>
+#include<deque>
 
 using std::cout;
 using std::cin;
@@ -35,5 +36,6 @@ using std::make_pair;
 using std::make_tuple;
 using std::max;
 using std::min;
+using std::deque;
 
 #endif // ZYFZIYONGTOU_H
